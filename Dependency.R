@@ -1,7 +1,5 @@
 ##---------------------------------------------------------------------#
-#Name: Preeti Suryaprakash            PG ID: 11810093     
-#Name: Naga Manga Pavithra Gadepalli  PG ID: 11810096     
-#Name: Samujjal Seal Sarma            PG ID: 11810029
+  #Name: Samujjal Seal Sarma 
 #---------------------------------------------------------------------#
 if (!require(udpipe)){install.packages("udpipe")}
 if (!require(lattice)){install.packages("lattice")}
